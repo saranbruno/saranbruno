@@ -3,7 +3,7 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B1220,50:10364A,100:0D9488&text=Bruno%20Saran&fontColor=FFFFFF&fontSize=46&fontAlignY=37&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20DevOps&descSize=17&descAlignY=61&animation=fadeIn&section=header"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B1220,50:10364A,100:0D9488&text=Bruno%20Saran&fontColor=FFFFFF&fontSize=46&fontAlignY=37&desc=Full%20Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20DevOps&descSize=17&descAlignY=61&animation=fadeIn&section=header"
     alt="Bruno Saran | Software Engineer"
     width="100%"
   />
@@ -21,7 +21,7 @@ Currently pursuing a **Postgraduate Degree in Software Architecture at FIAP**, w
 
 **Backend & Frontend**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,react,vite&theme=dark" alt="PHP, Laravel, JavaScript, TypeScript, Node.js, React, Vite" />
+<img src="https://skillicons.dev/icons?i=php,laravel,ts,nodejs,react,vite&theme=dark" alt="PHP, Laravel, TypeScript, Node.js, React, Vite" />
 
 **Mobile**
 
