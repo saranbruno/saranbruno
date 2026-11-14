@@ -1,15 +1,4 @@
-
 <!-- GitHub Profile README - saranbruno -->
-
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B1220,50:10364A,100:0D9488&text=Bruno%20Saran&fontColor=FFFFFF&fontSize=46&fontAlignY=37&desc=Full%20Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20DevOps&descSize=17&descAlignY=61&animation=fadeIn&section=header"
-    alt="Bruno Saran | Software Engineer"
-    width="100%"
-  />
-</div>
-
-### About me
 
 I'm **Bruno Saran**, a software engineer working professionally across **Full Stack Development, Mobile Engineering and DevOps**.
 
